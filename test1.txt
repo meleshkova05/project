@@ -1,18 +1,18 @@
 Мелешкова Екатерина
 
-float x1,y2,x2,y2,a,b,c;
-std::cout«"x1=";
+float x1,y2,x2,y2,a,b,c;// вводим переменныу
+std::cout«"x1=";// значение 1 переменной
 std::cin»x1;
-std::cout«"y1=";
+std::cout«"y1=";// значение 2 переменной
 std::cin»y1;
-std::cout«"x2=";
+std::cout«"x2=";// значение 3 переменной
 std::cin»x2;
-std::cout«"y2=";
+std::cout«"y2=";// значение 4 переменной
 std::cin»y2;
-a=sqrt((x1-x2)*(x1-x2);
-b=(y1-y2)*(y1-y2);
-c=a-b;
-std::cout«"c="«c;
+a=sqrt((x1-x2)*(x1-x2);// находим переменную а
+b=(y1-y2)*(y1-y2);// находим переменную b
+c=a-b;// находим переменную с
+std::cout«"c="«c;// выводим переменную с
 
 system("pause");
 return 0;
