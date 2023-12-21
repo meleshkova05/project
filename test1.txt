@@ -1,1 +1,18 @@
 Мелешкова Екатерина
+
+float x1,y2,x2,y2,a,b,c;
+std::cout«"x1=";
+std::cin»x1;
+std::cout«"y1=";
+std::cin»y1;
+std::cout«"x2=";
+std::cin»x2;
+std::cout«"y2=";
+std::cin»y2;
+a=sqrt((x1-x2)*(x1-x2);
+b=(y1-y2)*(y1-y2);
+c=a-b;
+std::cout«"c="«c;
+
+system("pause");
+return 0;
